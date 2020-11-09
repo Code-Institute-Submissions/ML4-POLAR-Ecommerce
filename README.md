@@ -1,45 +1,74 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Polar Ltd
 
-Welcome Anthony,
+Polar is a small eccomerce website that sells Computer components, keyboards, cases etc, This website has/is being built for the purpose of Code Institute 4th milestone project
+"Full-Stack Frameworks" the website will include a few different apps which will bring together the overaly userbility and function of the website.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This Website will benifit users by providing them with a service to purchase computer parts easily, it will also keep track of their delivery info and past orders.
 
-## Gitpod Reminders
+## UX
+### Main Requirements
+The requirements for this Website is to give the user the ability to Purchase items, create accounts and see past orders while also offering the Owner the ability to easily manage the store via
+their account and to easily satisfy all CRUD (Create, Read, Update & Delete) functions for both reviews and products.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Wireframes
 
-`python3 -m http.server`
+![Home (All sizes)](https://user-images.githubusercontent.com/55837085/98591609-60eed300-22c8-11eb-857d-c556e6baadd7.png)
 
-A blue button should appear to click: *Make Public*,
+![Products (All Sizes)](https://user-images.githubusercontent.com/55837085/98591769-9d223380-22c8-11eb-9213-ff2a153204af.png)
 
-Another blue button should appear to click: *Open Browser*.
+![Bag (All Sizes)](https://user-images.githubusercontent.com/55837085/98591800-ab704f80-22c8-11eb-8926-2d4b6c16ab3b.png)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+![Account(All Sizes)](https://user-images.githubusercontent.com/55837085/98591842-bd51f280-22c8-11eb-85c3-2c9fc09a5b86.png)
 
-A blue button should appear to click: *Make Public*,
+## Features
+In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-Another blue button should appear to click: *Open Browser*.
+### Existing Features
+Feature 1 - allows users X to achieve Y, by having them fill out Z
+...
+For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-## Updates Since The Instructional Video
+### Features Left to Implement
+Another feature idea
+Technologies Used
+In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## JQuery
+The project uses JQuery to simplify DOM manipulation.
+Testing
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Contact form:
+Go to the "Contact Us" page
+Try to submit the empty form and verify that an error message about the required fields appears
+Try to submit the form with an invalid email address and verify that a relevant error message appears
+Try to submit the form with all inputs valid and verify that a success message appears.
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Deployment
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
 
---------
+Different values for environment variables (Heroku Config Vars)?
+Different configuration files?
+Separate git branch?
+In addition, if it is not obvious, you should also describe how to run your code locally.
 
-Happy coding!
+## Credits
+### Content
+The text for section Y was copied from the Wikipedia article Z
+### Media
+The photos used in this site were obtained from ...
+### Acknowledgements
+I received inspiration for this project from X
