@@ -20,6 +20,23 @@ their account and to easily satisfy all CRUD (Create, Read, Update & Delete) fun
 
 ![Account(All Sizes)](https://user-images.githubusercontent.com/55837085/98591842-bd51f280-22c8-11eb-85c3-2c9fc09a5b86.png)
 
+### User Stories
+
+| Who | Wanting to Achieve | Reason | Ticked |
+| - | - | - | - |
+| Customer | I want to add products to a basket	 | So i can buy them later | [ ] |
+| Customer | I want to be able to browse by categories | To avoid seeing things i don't need | [ ] |
+| Customer | To be able to create an account | So i don't have to keep filling in my details | [ ] |
+| Customer | See past orders | Making it easier for me to do repeat purchases | [ ] |
+| Customer | Use a chatwidget to be able to talk to the store | So i can ask questions | [ ] |
+|  |  |  |  |
+| Owner | Ability to add products through the store | So i can easily manage my store | [ ] |
+| Owner | Ability to easily edit/delete products | Providing me a simple way to run my business | [ ] |
+| Owner | Auto send Order confirmations to Customers | To provide them with invoices etc | [ ] |
+| Owner | Easily answer customer queries | Using Drift chat widget | [ ] |
+| Owner | Take card payments on website | Using an app like Stripe | [ ] |
+
+
 ## Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
@@ -44,17 +61,6 @@ Whenever it is feasible, prefer to automate your tests, and if you've done so, p
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-## Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
@@ -67,8 +73,19 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ## Credits
 ### Content
-The text for section Y was copied from the Wikipedia article Z
+
+The Product content for this project was all acquired from Overclockers.co.uk
+
 ### Media
-The photos used in this site were obtained from ...
+
+The Media used in this project was acquired from Overclockers.co.uk
+
+Logo - Created by me.
+
 ### Acknowledgements
-I received inspiration for this project from X
+Inspiration for this website came from a few sources:
+
+- Code Institute - Boutique Ado = a few layout feathures were inspired from Boutique Ado aswell as the videos on the course were rewatched to assist me with understanding Django functionality
+and how to make a few things work the way i wanted them to.
+
+- Overclockers - Majority of the content was acquired from Overclockers such as images/title/content and prices, The reviews were random.
