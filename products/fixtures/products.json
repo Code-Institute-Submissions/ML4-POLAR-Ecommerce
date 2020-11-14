@@ -1,0 +1,1259 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "CA-1L2-00S1WN-00",
+      "name": "Thermaltake Level 20 VT Cube",
+      "description": "The Level 20 VT takes our latest case innovations and wraps them in an ultra-modern & space-conscious style that’s utterly unique in the case market today.",
+      "price": 97.99,
+      "category": 1,
+      "rating": 5,
+      "image_url": "https://www.scan.co.uk/images/products/2961995-a.jpg",
+      "image": "case-1.png"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCB-D500D-KGNN-S01",
+      "name": "Masterbox TD500 Tempered Glass",
+      "description": "Crystalline Tempered Glass Side Panel, up to E-ATX Motherboard Support, Dual 360mm Radiator Support, Polygonal Mesh, Pre-Installed ARGB Fans",
+      "price": 84.95,
+      "category": 1,
+      "rating": 4.5,
+      "image_url": "https://s3-eu-west-1.amazonaws.com/cdn.coolermaster.com/assets/1002/mb-td500-crystal_section5-1-imageleftorright.png",
+      "image": "case-2.png"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "90DC00B0-B39000",
+      "name": "ASUS ROG Z11 Mini-ITX",
+      "description": " Unique 11° angle design, Aura Sync RGB and High Quality Aluminium Aesthetics",
+      "price": 239.99,
+      "category": 1,
+      "rating": 4.9,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA05MAS_262411_750x750.jpg",
+      "image": "case-3.png"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "0R20B00184",
+      "name": "NYX PRO ALUMINIUM FULL TOWER SHOWCASE - YELLOW TEMPERED GLASS",
+      "description": " Supports up to EEB / E-ATX Motherboards, Aluminium Chassis, Tempered Glass Side Panels, Hinged Front & Top Panels, Vertical GPU Mounting, Extensive Watercooling Support, Included Riser Cable",
+      "price": 299.99,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA04JRT_243860_750x750.jpg",
+      "image": "case-4.png"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "Z-Tower",
+      "name": "Z-TOWER ALUMINIUM FULL TOWER CASE - SILVER",
+      "description": " Artistic Full-Tower from IN WIN, Manufactured entirely in aluminium, Limited editing with engraved serial number, Partly hand-crafted, Allows vertical GPU mounting",
+      "price": 4999.99,
+      "category": 1,
+      "rating": 4.9,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA08GIW_201220_750x750.jpg",
+      "image": "case-5.png"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "Winbot RED",
+      "name": "WINBOT DESIGN CASE - BLACK/RED",
+      "description": "Futuristic big tower case in spherical shape, transparent Plexiglass and aluminium, gesture control, limited edition, Graphics cards up to 340 mm, E-ATX motherboards, I / O panel with USB 3.1 type C",
+      "price": 3599.99,
+      "category": 1,
+      "rating": 4.5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA08BIW_181907_750x750.jpg",
+      "image": "case-6.png"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "0R20B00119",
+      "name": "ENYO TEMPERED GLASS SHOWCASE",
+      "description": "Open EE-ATX Showcase Tower, two huge tempered glass panes,  Panoramic view of the hardware, Watercooling-optimized with room for four 480 mm radiators, up to 23 fans possible, VGA up to 615 mm",
+      "price": 269.99,
+      "category": 1,
+      "rating": 4.2,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA03XRT_199481_750x750.jpg",
+      "image": "case-7.jpg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCB-NR200P-WGNN-S00",
+      "name": "MASTERBOX NR200P MINI-ITX CASE - WHITE TEMPERED GLASS",
+      "description": "Mini-ITX & Mini-DTX Support, Tempered Glass Side Panel, Included Vertical GPU Riser, Triple-Slot GPU Support, Tool-Free Access, Watercooling Support",
+      "price": 89.99,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA386CM_254739_750x750.png",
+      "image": "case-8.jpg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "MCB-Q300L-KANN-S00",
+      "name": "MASTERBOX Q300L MICRO-ATX CASE - BLACK WINDOW",
+      "description": "The MasterBox Q300L is your straightforward option in the lineup of the brand new MasterBox Q-series from Cooler Master.",
+      "price": 37.99,
+      "category": 1,
+      "rating": 4.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA36VCM_183384_750x750.jpg",
+      "image": "case-9.jpg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "306-7G07R15-809",
+      "name": "MAG VAMPIRIC 100R MID TOWER GAMING CASE",
+      "description": "Tempered Glass Side Panel, Up to ATX Motherboard Support, 300mm Max GPU Length, Max CPU Cooler Length 160mm, Magnetic Dust Filter, Optimsied Airflow, ARGB Fans",
+      "price": 44.99,
+      "category": 1,
+      "rating": 4.4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA00FMS_266059_750x750.jpg",
+      "image": "case-10.jpg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "EGG-XM1RGB-BLK",
+      "name": "XM1-RGB USB RGB OPTICAL ESPORTS PERFORMANCE GAMING MOUSE - BLACK",
+      "description": " Premium gaming mouse with integrated 16 RGB LEDs capable of displaying up to 16.8 million colours, Pixart PMW3389, mechanical Kailh GM 4.0, bundled software for adjusting RGB sensitivity and accuracy",
+      "price": 62.69,
+      "category": 2,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB006EG_262901_750x750.jpg",
+      "image": "mouse-1.png"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "GO-BLACK",
+      "name": "MODEL O USB RGB ODIN GAMING MOUSE - MATTE BLACK",
+      "description": "Extremely light weight (67/68g), Eye catching design with clean lines and RGB illumination, Honeycomb surface for strength & comfort, Includes high quality G-skates mouse feet",
+      "price": 52.99,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB002GR_203590_750x750.jpg",
+      "image": "mouse-2.jpg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "910-005568",
+      "name": "LOGTIECH G502 LIGHTSPEED WIRELESS RGB GAMING MOUSE",
+      "description": "Logtiech G502 LIGHTSPEED Wireless RGB Gaming Mouse, 114 g - 7 gram reduction, 16,000 - Max DPI, 1 ms - Refresh Rate",
+      "price": 109.99,
+      "category": 2,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB25WLG_213863_750x750.jpg",
+      "image": "mouse-3.jpg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "RZ01-03250100-R3M1",
+      "name": "VIPER MINI ULTRA-LIGHTWEIGHT USB RGB OPTICAL GAMING MOUSE",
+      "description": " Razer Viper Mini Ultra-Lightweight USB Optical Gaming Mouse, 8500 DPI OPTICAL SENSOR, 6 PROGRAMMABLE BUTTONS, 100% PTFE MOUSE FEET, ON-BOARD MEMORY PROFILE",
+      "price": 39.95,
+      "category": 2,
+      "rating": 4.1,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB135RA_243029_750x750.jpg",
+      "image": "mouse-4.jpg"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+      "sku": "90MP01K0-BMUA00",
+      "name": "ROG CHAKRAM ERGONOMIC RGB OPTICAL QI WIRELESS GAMING MOUSE",
+      "description": "ASUS ROG Chakram ergonomic RGB optical Qi gaming mouse with wireless charging and side Joystick, three modes of connectivity (wired/2.4 GHz/Bluetooth), advanced 16000 dpi sensor",
+      "price": 99.95,
+      "category": 2,
+      "rating": 4.8,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB043AS_229746_750x750.jpg",
+      "image": "mouse-5.png"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "62527",
+      "name": "SENSEI 10 OPTICAL USB RGB AMBIDEXTROUS GAMING MOUSE",
+      "description": "The Sensei Ten is a competitive gaming mouse built for lasting performance. It carries on the historic Sensei legacy withan iconic ambidextrous shape  and adds all-new upgrades",
+      "price": 54.95,
+      "category": 2,
+      "rating": 4.4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB095ST_228091_750x750.jpg",
+      "image": "mouse-6.jpg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "MR05DCINBL000-0",
+      "name": "MAD CATZ R.A.T. 8 + USB RGB OPTICAL CUSTOMISABLE GAMING MOUSE",
+      "description": "MAD CATZ R.A.T. + USB RGB Optical Customisable Gaming Mouse",
+      "price": 99.95,
+      "category": 2,
+      "rating": 4.4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB02BMZ_217266_750x750.jpg",
+      "image": "mouse-7.jpg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "62456",
+      "name": "RIVAL 650 WIRELESS RGB OPTICAL GAMING MOUSE",
+      "description": "Quantum Wireless™ delivers freedom from wires, TrueMove3: World’s first True 1 to 1 esports sensor 12000 CPI 350 IPS, Secondary lift off sensor for world’s most accurate and lowest lift off distance",
+      "price": 95.99,
+      "category": 2,
+      "rating": 4.8,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB08VST_193031_750x750.jpg",
+      "image": "mouse-8.jpg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "XG-M4-RGB-PINK",
+      "name": "M4 RGB USB OPTICAL GAMING MOUSE - PINK",
+      "description": "Professional gaming mouse from Xtrfy in Pink, with Pixart PMW 3389 sensor, Max. 16000 CPI, 6 buttons and scroll wheel, 1000 Hz, RGB LED lighting",
+      "price": 49.99,
+      "category": 2,
+      "rating": 3.5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB00CXT_225966_750x750.jpg",
+      "image": "mouse-9.jpg"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "62456",
+      "name": "RIVAL 650 WIRELESS RGB OPTICAL GAMING MOUSE",
+      "description": "Quantum Wireless™ delivers freedom from wires, TrueMove3: World’s first True 1 to 1 esports sensor 12000 CPI 350 IPS, Secondary lift off sensor for world’s most accurate and lowest lift off distance",
+      "price": 99.95,
+      "category": 2,
+      "rating": 4.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB08VST_193031_750x750.jpg",
+      "image": "mouse-10.jpg"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+      "sku": "G-104-BLACK-UK",
+      "name": "ABS-DOUBLESHOT - 105 KEYS BLACK UK LAYOUT",
+      "description": "Black Keycap Complete Set from Glorious PC Gaming Race with 105 black key covers made of ABS with translucent lettering, Compatible with Gateron & Kailh & Cherry MX Switches, English Layout",
+      "price": 14.99,
+      "category": 3,
+      "rating": 4.3,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB00EGR_203916_750x750.jpg",
+      "image": "keyboard-1.jpg"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+      "sku": "DKON2061ST-SUKPDWWT1",
+      "name": "ONE2 MINI 60% WHITE FRAME RGB USB MECHANICAL GAMING KEYBOARD",
+      "description": " White gaming keyboard from Ducky, RGB LED lighting, Cherry MX Red switches Silent, PBT-double-shot keycaps, Macro and multimedia functions, TKL mini version (60%), UK Layout",
+      "price": 124.99,
+      "category": 3,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB256DK_221472_750x750.jpg",
+      "image": "keyboard-2.jpg"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+      "sku": "920-008908",
+      "name": "G915 LIGHTSPEED WIRELESS RGB MECHANICAL GAMING KEYBOARD TACTILE SWITCHES",
+      "description": "LIGHTSPEED PRO-GRADE WIRELESS RGB GAMING KEYBOARD, LOW PROFILE  MECHANICAL GAMING SWITCHES, 22MM ULTRA THIN, GROUND BREAKING DESIGN",
+      "price": 209.99,
+      "category": 3,
+      "rating": 4.8,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB260LG_233940_750x750.jpg",
+      "image": "keyboard-3.jpg"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+      "sku": "DKON1787ST-SUKPDAZT1",
+      "name": "ONE2 TKL RGB USB MECHANICAL KEYBOARD BACKLIT SILENT RED CHERRY MX SWITCH UK LAYOUT",
+      "description": " PBT Double-Shot seamless key caps, German made Cherry MX RGB key switches, Brand new RGB backlit mode, 3 level adjustable feet, Keyboard indicator lights, Detachable USB Type-C cable",
+      "price": 149.99,
+      "category": 3,
+      "rating": 3.8,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB24NDK_197340_750x750.jpg",
+      "image": "keyboard-4.jpg"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+      "sku": "RZ03-01870300-R3W1",
+      "name": "HUNTSMAN ELITE RGB CHROMA MECHANICAL GAMING KEYBOARD",
+      "description": "The New Razer Opto-Mechanical™ Switch - Actuation at the speed of light, Optical Actuation - Maximize APM with rapid-fire input, Key Stabilzer Bar - For consistent and balanced keypresses",
+      "price": 184.99,
+      "category": 3,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB12RRA_200830_750x750.jpg",
+      "image": "keyboard-5.jpg"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+      "sku": "MY69NL1PDP88U",
+      "name": "MIYA PRO SAKURA EDITION BLACK CHERRY MX SWITCH 60% MECHANICAL GAMING KEYBOARD UK LAYOUT",
+      "description": "MIYA’s software controller (coming soon), German made Cherry MX switches, Pink LED with backlit mode feature, Adjustable brackets, Type-C Detachable USB, USB N-Key Rollover, Dual-layer PCB, UK Layout",
+      "price": 119.99,
+      "category": 3,
+      "rating": 4.4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/DUCIKYMIYA01_750x750.jpg",
+      "image": "keyboard-6.jpg"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+      "sku": "CH-9206015-UK",
+      "name": "GAMING K55 RGB KEYBOARD, BACKLIT RGB LED - UK LAYOUT",
+      "description": "Three-zone dynamic RGB backlighting, 6 programmable macro keys, Dedicated volume and multimedia controls, Quiet and responsive keys, Multi-key anti-ghosting, Detachable wrist rest",
+      "price": 54.95,
+      "category": 3,
+      "rating": 4.8,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB09BCS_153011_750x750.jpg",
+      "image": "keyboard-7.jpg"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+      "sku": "DKON1808-BUKPDZHBS",
+      "name": "ONE2 SKYLINE BROWN CHERRY MX SWITCH USB MECHANICAL GAMING KEYBOARD UK LAYOUT",
+      "description": "Ducky One2 Skyline Brown Cherry MX Switch USB Mechanical Gaming Keyboard, New bezel design, PBT Seamless Double-Shot keycaps, USB N-Key Rollover (USB NKRO) and Dual-layer PCB, UK Layout",
+      "price": 104.99,
+      "category": 3,
+      "rating": 4.3,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB239DK_182212_750x750.jpg",
+      "image": "keyboard-8.jpg"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+      "sku": "90MP01X0-BKEA00",
+      "name": "TUF GAMING K1 USB RGB GAMING KEYBOARD",
+      "description": "Tactile TUF Gaming switches with 19-key rollover, Dynamic RGB lighting effects and side-mounted light bar, Dedicated volume knob, Reinforced plastic frame with up to 300ml spill resist",
+      "price": 5.95,
+      "category": 3,
+      "rating": 4.6,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB04CAS_257118_750x750.jpg",
+      "image": "keyboard-9.jpg"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+      "sku": "DKON1787ST-SUKPDWWT1",
+      "name": "ONE 2 TKL PURE WHITE RGB BACKLIT USB MECHANICAL GAMING KEYBOARD",
+      "description": "Ducky One 2 TKL Gaming Keyboard, Pure White Frame, RGB Backlit, USB 2.0 connection, Cherry MX Silent Red Mechanical Switches, UK Layout",
+      "price": 148.99,
+      "category": 3,
+      "rating": 4.8,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB265DK_252266_750x750.jpg",
+      "image": "keyboard-10.jpg"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "products.product",
+    "fields": {
+      "sku": "LC49G95TSSUXEN",
+      "name": "ODYSSEY LC49G95TSSUXEN 49 5120X1440, VA 240HZ 1MS FREESYNC/G-SYNC COMPATIBLE CURVED GAMING M",
+      "description": "Resolution 5120x1440, Display Size 49, Refresh Rate 240Hz, FreeSync/G-Sync Compatible, 1ms Response Time, Contrast Ratio 2500:1, Panel Type VA, Curved 1000R, Height/Tilt/Swivel adjust",
+      "price": 1279.99,
+      "category": 4,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO247SA_250332_750x750.jpg",
+      "image": "monitor-1.jpg"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "products.product",
+    "fields": {
+      "sku": "24G2U/BK",
+      "name": "GAMING 24G2U 24 1920X1080 IPS 144HZ 1MS FREESYNC WIDESCREEN LED GAMING MONITOR",
+      "description": "Display Resolution 1920x1080, Display Size 24, Refresh Rate 144Hz, FreeSync, 1ms Response Time, Contrast Ratio 80M:1, Panel Type IPS, 3-side frameless",
+      "price": 199.99,
+      "category": 4,
+      "rating": 4.8,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO053AO_228167_750x750.jpg",
+      "image": "monitor-2.jpg"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "products.product",
+    "fields": {
+      "sku": "27GL850-B",
+      "name": "2560X1440 NANO IPS 144HZ 1MS FREESYNC/G-SYNC COMPATIBLE WIDESCREEN LED",
+      "description": "Display Resolution 2560x1440, Display Size 27, Refresh Rate 144Hz, FreeSync, G-Sync Compatible, Response Time 1ms, Contrast Ratio 1000:1, Panel Type IPS, HDR 10",
+      "price": 349.99,
+      "category": 4,
+      "rating": 4.5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO155LG_218798_750x750.jpg",
+      "image": "monitor-3.jpg"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "products.product",
+    "fields": {
+      "sku": "GIGABYTE G34WQC-EK",
+      "name": "3440X1440 VA 144HZ 1MS FREESYNC/G-SYNC COMPATIBLE CURVED LED BACKLIT ULTRAWID",
+      "description": "Display Resolution 3440x1440, Display Size 34, Refresh Rate 144Hz, FreeSync, G-Sync Compatible, 1ms Response Time, Contrast Ratio 3000:1, Panel Type VA, HDR 400, Curved 1500R, Speakers, Height Adjust",
+      "price": 399.95,
+      "category": 4,
+      "rating": 4.5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO00BGI_259937_750x750.jpg",
+      "image": "monitor-4.jpg"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "products.product",
+    "fields": {
+      "sku": "27GN950-B",
+      "name": "3840X2160 4K NANO IPS 144HZ 1MS HDR 600 FREESYNC/G-SYNC COMPATIBLE LED WIDESCREEN",
+      "description": "Display Resolution 3840x2160 UHD 4K, Display Size 27, Refresh Rate 144HZ, FreeSync, G-Sync Compatible, 1ms Response Time, Contrast Ratio 700:1, Panel Type NANO IPS, Height Adjust, Tilt Swivel, DSC",
+      "price": 749.99,
+      "category": 4,
+      "rating": 4.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO15WLG_262278_750x750.jpg",
+      "image": "monitor-5.jpg"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "products.product",
+    "fields": {
+      "sku": "34GN850",
+      "name": "3440X1440 NANO IPS 160HZ 1MS FREESYNC/G-SYNC WIDESCREEN LED CURVED",
+      "description": "34-inch UltraWideTM QHD (3440x1440 Resolution) Curved, LG Nano IPS Panel, 1ms (GtG) response time, FreeSync, NVIDIA G-SYNC® Compatible, 144Hz Refresh Rate, 160Hz Overclock, HDR400",
+      "price": 969.95,
+      "category": 4,
+      "rating": 4.6,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO15LLG_246491_750x750.jpg",
+      "image": "monitor-6.jpg"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "products.product",
+    "fields": {
+      "sku": "90LM05Q0-B01370",
+      "name": "ROG SWIFT 360HZ PG259QN 25 1920X1080 IPS G-SYNC 1MS HDR LED BACKLIT WIDESCREEN ULTRA FAST",
+      "description": "Display Resolution 1920x1080, Display Size 24.5, Refresh Rate 360Hz, G-Sync, 1ms Response Time, HDR-10, Panel Type IPS, Height Adjust, Tilt  Swivel",
+      "price": 648.99,
+      "category": 4,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO0B8AS_263680_750x750.jpg",
+      "image": "monitor-7.jpg"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "products.product",
+    "fields": {
+      "sku": "90LM0500-B01370",
+      "name": "Display Resolution 2560x1440, Display Size 27, Refresh Rate 165Hz, FreeSync, G-Sync Compatible, 1ms Response Time, Contrast Ratio 1000:1, Panel Type IPS",
+      "price": 408.95,
+      "category": 4,
+      "rating": 4.5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO0A9AS_225832_750x750.jpg",
+      "image": "monitor-8.jpg"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "products.product",
+    "fields": {
+      "sku": "GIGABYTE G27Q-EK",
+      "name": "2550X1440 IPS 144HZ 1MS FREESYNC/G-SYNC COMPATIBLE LED BACKLIT WIDESCREEN",
+      "description": "Display Resolution 2560x1440, Display Size 27, Refresh Rate 144Hz, FreeSync Premium, G-Sync Compatible, 1ms Response Time, Contrast Ratio 1000:1, Panel Type, IPS, Height Adjust",
+      "price": 309.95,
+      "category": 4,
+      "rating": 3.8,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO009GI_259847_750x750.jpg",
+      "image": "monitor-9.jpg"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "products.product",
+    "fields": {
+      "sku": "9H.LHELB.CBE",
+      "name": "1920X1080 IPS WIDESCREEN LED GAMING MONITOR SLIM BEZEL EYECARE",
+      "description": "Display Resolution 1920x1080, Display Size 24, Refresh Rate 60Hz, 5ms Response Time, Contrast Ratio 20M:1, Panel Type IPS, Slim Bezel, 9H.LHELB.CBE",
+      "price": 104.99,
+      "category": 4,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MO12ZBQ_222047_750x750.jpg",
+      "image": "monitor-10.jpg"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "products.product",
+    "fields": {
+      "sku": "TDPPD432G3600HC16GDC01",
+      "name": "TEAM GROUP EDITION 32GB (2X16GB) DDR4 PC4-28800C16 3600MHZ DUAL CHANNEL KIT",
+      "description": "3600MHz RAM Speed, CAS 16-16-16-38 Timings, 1.20-1.40v VDIMM, Samsung B-Die, Ideal for AMD Ryzen 3000/4000 and Intel Comet Lake 8 Pack Approved",
+      "price": 229.99,
+      "category": 5,
+      "rating": 4.2,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MY0028P_247650_750x750.jpg",
+      "image": "ram-1.jpg"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "products.product",
+    "fields": {
+      "sku": "TDPPD416G3600HC14CDC01",
+      "name": "TEAM GROUP RIPPED EDITION 16GB (2X8GB) DDR4 PC4-28800C14 3600MHZ DUAL CHANNEL KIT",
+      "description": "3600MHz RAM Speed, CAS 14-15-15-35 Timings, 1.40-1.50v VDIMM, Samsung B-Die, Ideal for AMD Ryzen 3000/4000 and Intel Comet Lake 8 Pack Approved",
+      "price": 128.99,
+      "category": 5,
+      "rating": 4.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MY0018P_247645_750x750.jpg",
+      "image": "ram-2.jpg"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "products.product",
+    "fields": {
+      "sku": "CMW32GX4M2Z3600C18",
+      "name": "VENGEANCE RGB PRO BLACK 32GB (2X16GB) 3600MHZ AMD RYZEN TUNED DDR4 MEMORY DUAL KIT",
+      "description": "32GB (2x16GB) Corsair DDR4 Vengeance RGB PRO Black, PC4-28800 (3600), Non-ECC Unbuff, CAS 18, 1.35V, AMD Ryzen Optimised",
+      "price": 199.99,
+      "category": 5,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MY4CKCS_234448_750x750.jpg",
+      "image": "ram-3.jpg"
+    }
+  },
+  {
+    "pk": 44,
+    "model": "products.product",
+    "fields": {
+      "sku": "CMW16GX4M2Z3600C18",
+      "name": "VENGEANCE RGB PRO BLACK 16GB (2X8GB) 3600 MHZ AMD RYZEN TUNED DDR4 MEMORY DUAL KIT",
+      "description": "16GB (2x8GB) Corsair DDR4 Vengeance RGB PRO Black, PC4-28800 (3600), Non-ECC Unbuff, CAS 18, 1.35V, AMD Ryzen Optimised",
+      "price": 109.99,
+      "category": 5,
+      "rating": 4.9,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MY4C1CS_222544_750x750.jpg",
+      "image": "ram-4.jpg"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "products.product",
+    "fields": {
+      "sku": "TLZGD432G3200HC16CDC01",
+      "name": "VULCAN Z T-FORCE 32GB (2X16GB) DDR4 PC4-25600C16 3200MHZ DUAL CHANNEL KIT",
+      "description": "3200MHz RAM Speed, CAS 16-18-18-38 Timings, 1.25-1.35v VDIMM, Ideal for AMD Ryzen 3000/4000 and Intel Comet Lake",
+      "price": 109.99,
+      "category": 5,
+      "rating": 4.6,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MY0AJTG_256214_750x750.jpg",
+      "image": "ram-5.jpg"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "products.product",
+    "fields": {
+      "sku": "CMK16GX4M2Z3600C18",
+      "name": "16GB (2x8GB) Corsair DDR4 Vengeance LPX Black, PC4-28800 (3600), Non-ECC Unbuff, CAS 18, 1.35V, AMD Ryzen Optimised",
+      "price": 79.99,
+      "category": 5,
+      "rating": 4.5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MY4BWCS_221312_750x750.jpg",
+      "image": "ram-6.jpg"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "products.product",
+    "fields": {
+      "sku": "CMW16GX4M2C3200C16",
+      "name": "VENGEANCE RGB PRO 16GB (2X8GB) DDR4 PC4-25600C16 3200MHZ DUAL CHANNEL KIT",
+      "description": "3200MHz RAM Speed, CAS 16-18-18-36 Timings, 1.35v VDIMM",
+      "price": 89.99,
+      "category": 5,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MY4BHCS_188003_750x750.jpg",
+      "image": "ram-7.jpg"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "products.product",
+    "fields": {
+      "sku": "PVS416G440C9K",
+      "name": "JVIPER STEEL 16GB (2X8GB) DDR4 PC4-35200C19 4400MHZ DUAL CHANNEL KIT",
+      "description": "4400MHz RAM Speed, CAS 19-19-19-39 Timings, 1.45v VDIMM",
+      "price": 119.99,
+      "category": 5,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MY103PA_232903_750x750.jpg",
+      "image": "ram-8.jpg"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "products.product",
+    "fields": {
+      "sku": "TDGED416G3200HC16CDC01",
+      "name": "DARK T-FORCE 16GB (2X8GB) DDR4 PC4-25600C16 3200MHZ DUAL CHANNEL KIT",
+      "description": "3200MHz RAM Speed, CAS 16-18-18-36 Timings, 1.25-1.35v VDIMM",
+      "price": 59.99,
+      "category": 5,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MY09PTG_177501_750x750.jpg",
+      "image": "ram-9.jpg"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "products.product",
+    "fields": {
+      "sku": "TF10D416G3600HC18JDC01",
+      "name": "XTREEM RGB 16GB (2X8GB) DDR4 PC4-28800C18 3600MHZ DUAL CHANNEL KIT",
+      "description": "Achieve effortless everyday style in this no-wrinkle woven shirt from Dockers. no-wrinkle fabric button-down collar left chest pocket with logo embroidery cotton/polyester washable imported",
+      "price": 66.99,
+      "category": 5,
+      "rating": 4.6,
+      "image_url": "3600MHz RAM Speed, CAS 18-22-22-42 Timings, 1.45v VDIMM",
+      "image": "ram-10.jpg"
+    }
+  },
+  {
+    "pk": 51,
+    "model": "products.product",
+    "fields": {
+      "sku": " GV-N207SWF3OC-8GD",
+      "name": "GEFORCE RTX 2070 SUPER WINDFORCE OC 3X 8G 8192MB GDDR6 PCI-EXPRESS GRAPHICS CARD",
+      "description": "Boost Clock: 1785MHz, Memory: 8192MB 14000MHz GDDR6, Cuda Cores: 2560, VR Ready, PhysX/CUDA Enabled, NVIDIA Turing, 12nm Process, Real-Time Ray Tracing",
+      "price": 499.99,
+      "category": 6,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1B3GI_232292_750x750.jpg",
+      "image": "g-card-1.jpg"
+    }
+  },
+  {
+    "pk": 52,
+    "model": "products.product",
+    "fields": {
+      "sku": "GV-N2060OC-6GD V2",
+      "name": "GEFORCE RTX 2060 OC REV2 6144MB GDDR6 PCI-EXPRESS GRAPHICS CARD",
+      "description": "Boost Clock: 1755MHz, Memory: 6144MB 14000MHz GDDR6, Cuda Cores: 1920, VR Ready, PhysX/CUDA Enabled, NVIDIA Turing, 12nm Process, Real-Time Ray Tracing",
+      "price": 299.99,
+      "category": 6,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1BJGI_233014_750x750.jpg",
+      "image": "g-card-2.jpg"
+    }
+  },
+  {
+    "pk": 53,
+    "model": "products.product",
+    "fields": {
+      "sku": "GV-N1660OC-6GD",
+      "name": "GEFORCE GTX 1660 OC 6144MB GDDR5 PCI-EXPRESS GRAPHICS CARD",
+      "description": "Core Clock: 1530MHz, Boost Clock: 1830MHz, Memory: 6144MB 8000MHz GDDR5, Stream Processors: 1408, VR Ready, PhysX/CUDA Enabled",
+      "price": 218.99,
+      "category": 6,
+      "rating": 3.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1AVGI_204015_750x750.jpg",
+      "image": "g-card-3.jpg"
+    }
+  },
+  {
+    "pk": 54,
+    "model": "products.product",
+    "fields": {
+      "sku": "GV-76859-1660-6",
+      "name": "GEFORCE GTX 1660 SUPER VENTUS XS OC 6144MB GDDR6 PCI-EXPRESS GRAPHICS CARD",
+      "description": "GeForce GTX 1660 SUPER VENTUS XS OC, Core Clock: 1530MHz, Boost Clock: 1815MHz, Memory: 6144MB 14000MHz GDDR6, Stream Processors: 1408, VR Ready, PhysX/CUDA Enabled",
+      "price": 218.99,
+      "category": 6,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX35VMS_230193_750x750.jpg",
+      "image": "g-card-4.jpg"
+    }
+  },
+  {
+    "pk": 55,
+    "model": "products.product",
+    "fields": {
+      "sku": " GV-N207SGAMING OC-8GD",
+      "name": "GEFORCE RTX 2070 SUPER GAMING OC 3X 8192MB GDDR6 PCI-EXPRESS GRAPHICS CARD",
+      "description": "Boost Clock: 1815MHz, Memory: 8192MB 14000MHz GDDR6, Cuda Cores: 2560, VR Ready, PhysX/CUDA Enabled, NVIDIA Turing, 12nm Process, Real-Time Ray Tracing",
+      "price": 559.99,
+      "category": 6,
+      "rating": 4.5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1B5GI_232742_750x750.jpg",
+      "image": "g-card-5.jpg"
+    }
+  },
+  {
+    "pk": 56,
+    "model": "products.product",
+    "fields": {
+      "sku": "V372-257R",
+      "name": "GEFORCE RTX 2070 SUPER GAMING X TRIO 8192MB PCI-EXPRESS GRAPHICS CARD",
+      "description": "Boost Clock: 1800MHz, Memory: 8192MB 14000MHz GDDR6, Cuda Cores: 2560, VR Ready, PhysX/CUDA Enabled, NVIDIA Turing, 12nm Process, Real-Time Ray Tracing",
+      "price": 559.99,
+      "category": 6,
+      "rating": 3.9,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX35KMS_219403_750x750.jpg",
+      "image": "g-card-6.jpg"
+    }
+  },
+  {
+    "pk": 57,
+    "model": "products.product",
+    "fields": {
+      "sku": "GV-N208SWF3OC-8GD",
+      "name": "Boost Clock: 1830MHz, Memory: 8192MB 15500MHz GDDR6, Cuda Cores: 3072, SLI Ready, VR Ready, PhysX/CUDA Enabled, NVIDIA Turing, 12nm Process, Real-Time Ray Tracing",
+      "price": 859.99,
+      "category": 6,
+      "rating": 4.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1BQGI_247327_750x750.jpg",
+      "image": "g-card-7.jpg"
+    }
+  },
+  {
+    "pk": 58,
+    "model": "products.product",
+    "fields": {
+      "sku": "90YV0E42-M0NA00",
+      "name": "GEFORCE GTX 1650 SUPER TUF OC 4096MB GDDR6 PCI-EXPRESS GRAPHICS CARD",
+      "description": "Core Clock: 1530MHz, Boost Clock: 1800MHz, Memory: 4096MB 12000MHz GDDR6, Stream Processors: 1280, VR Ready",
+      "price": 158.99,
+      "category": 6,
+      "rating": 3.3,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX441AS_232597_750x750.jpg",
+      "image": "g-card-8.jpg"
+    }
+  },
+  {
+    "pk": 59,
+    "model": "products.product",
+    "fields": {
+      "sku": "ZT-T20600H-10M",
+      "name": "EFORCE RTX 2060 TWIN FAN 6144MB GDDR6 PCI-EXPRESS GRAPHICS CARD",
+      "description": "Boost Clock: 1680MHz, Memory: 6144MB 14000MHz GDDR6, Cuda Cores: 1920, VR Ready, PhysX/CUDA Enabled, NVIDIA Turing, 12nm Process, Real-Time Ray Tracing",
+      "price": 329.99,
+      "category": 6,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX11CZT_236622_fix_750x750.jpg",
+      "image": "g-card-9.jpg"
+    }
+  },
+  {
+    "pk": 60,
+    "model": "products.product",
+    "fields": {
+      "sku": "NE6208TS20LC-150A",
+      "name": "GEFORCE RTX 2080 TI GAMING PRO OC 11264MB GDDR6 PCI-EXPRESS GRAPHICS CARD",
+      "description": " Boost Clock: 1650MHz, Memory: 11264MB 14000MHz GDDR6, Cuda Cores: 4352, SLI Ready, VR Ready, PhysX/CUDA Enabled, NVIDIA Turing, 12nm Process, Real-Time Ray Tracing",
+      "price": 1199.99,
+      "category": 6,
+      "rating": 4.4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX04BPL_190860_750x750.jpg",
+      "image": "g-card-10.jpg"
+    }
+  },
+  {
+    "pk": 61,
+    "model": "products.product",
+    "fields": {
+      "sku": "100-100000071BOX",
+      "name": "RYZEN 7 3700X EIGHT CORE 4.4GHZ (SOCKET AM4) PROCESSOR - RETAIL",
+      "description": "8 Core with 16 Threads, 4.40GHz clock speed, 7nm FinFet Process, 32MB L3 Cache, Dual Channel DDR4 Controller, 3200-3600MHz RAM Recommended",
+      "price": 299.99,
+      "category": 7,
+      "rating": 4.5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP3B7AM_219005_750x750.jpg",
+      "image": "cpu-1.jpg"
+    }
+  },
+  {
+    "pk": 62,
+    "model": "products.product",
+    "fields": {
+      "sku": "100-100000031BOX",
+      "name": "RYZEN 5 3600 SIX CORE 4.2GHZ (SOCKET AM4) PROCESSOR - RETAIL",
+      "description": "6 Core with 12 Threads, 4.20GHz clock speed, 7nm FinFet Process, 32MB L3 Cache, Dual Channel DDR4 Controller, 3200-3600MHz RAM Recommended",
+      "price": 218.99,
+      "category": 7,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP3B9AM_219007_750x750.jpg",
+      "image": "cpu-2.jpg"
+    }
+  },
+  {
+    "pk": 63,
+    "model": "products.product",
+    "fields": {
+      "sku": "100-100000277WOF",
+      "name": "RYZEN 9 3900XT TWELVE CORE 4.7GHZ (SOCKET AM4) PROCESSOR - RETAIL",
+      "description": "12 Core with 24 Threads, 4.70GHz clock speed, 7nm FinFet Process, 64MB L3 Cache, Dual Channel DDR4 Controller, 3200-3600MHz RAM Recommended",
+      "price": 469.99,
+      "category": 7,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP3C4AM_252159_750x750.jpg",
+      "image": "cpu-3.jpg"
+    }
+  },
+  {
+    "pk": 64,
+    "model": "products.product",
+    "fields": {
+      "sku": "100-100000279WOF",
+      "name": "RYZEN 7 3800XT EIGHT CORE 4.7GHZ (SOCKET AM4) PROCESSOR - RETAIL",
+      "description": "8 Core with 16 Threads, 4.70GHz clock speed, 7nm FinFet Process, 32MB L3 Cache, Dual Channel DDR4 Controller, 3200-3600MHz RAM Recommended",
+      "price": 359.99,
+      "category": 7,
+      "rating": 4.9,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP3C5AM_252160_750x750.jpg",
+      "image": "cpu-4.jpg"
+    }
+  },
+  {
+    "pk": 65,
+    "model": "products.product",
+    "fields": {
+      "sku": "100-100000281BOX",
+      "name": "RYZEN 5 3600XT SIX CORE 4.5GHZ (SOCKET AM4) PROCESSOR - RETAIL",
+      "description": "6 Core with 12 Threads, 4.50GHz clock speed, 7nm FinFet Process, 32MB L3 Cache, Dual Channel DDR4 Controller, 3200-3600MHz RAM Recommended, Wraith Cooler Included",
+      "price": 229.99,
+      "category": 7,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP3C6AM_252161_750x750.jpg",
+      "image": "cpu-5.jpg"
+    }
+  },
+  {
+    "pk": 66,
+    "model": "products.product",
+    "fields": {
+      "sku": "BX8070110900KA",
+      "name": "CORE I9-10900K AVENGERS EDITION 3.7GHZ (COMET LAKE) SOCKET LGA1200 PROCESSOR - RETAIL",
+      "description": " Hyper-Threading Technology, 10/20 Cores / Threads, 3.70GHz Clock Speed, 5.3GHz Single Core Max Turbo, 20mb Cache, 125W TDP, Dual Channel DDR4 Controller",
+      "price": 659.99,
+      "category": 7,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP68PIN_259840_750x750.jpg",
+      "image": "cpu-6.jpg"
+    }
+  },
+  {
+    "pk": 67,
+    "model": "products.product",
+    "fields": {
+      "sku": "BX80684I99900K",
+      "name": "CORE I9-9900K 3.6GHZ (COFFEE LAKE) SOCKET LGA1151 PROCESSOR - RETAIL",
+      "description": "Hyper-Threading Technology, 3.60GHz Clock Speed, 5.0GHz Single Core Max Turbo, 16mb Cache, 95W TDP, Dual Channel DDR4 Controller",
+      "price": 439.99,
+      "category": 7,
+      "rating": 4.5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP65JIN_193693_750x750.jpg",
+      "image": "cpu-7.jpg"
+    }
+  },
+  {
+    "pk": 68,
+    "model": "products.product",
+    "fields": {
+      "sku": "BX8070110900K",
+      "name": "CORE I9-10900K 3.7GHZ (COMET LAKE) SOCKET LGA1200 PROCESSOR - RETAIL",
+      "description": " Hyper-Threading Technology, 10/20 Cores / Threads, 3.70GHz Clock Speed, 5.3GHz Single Core Max Turbo, 20mb Cache, 125W TDP, Dual Channel DDR4 Controller",
+      "price": 599.99,
+      "category": 7,
+      "rating": 4.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP67WIN_249110_750x750.jpg",
+      "image": "cpu-8.jpg"
+    }
+  },
+  {
+    "pk": 69,
+    "model": "products.product",
+    "fields": {
+      "sku": "BX80684I79700K",
+      "name": "CORE I7-9700K 3.6GHZ (COFFEE LAKE) SOCKET LGA1151 PROCESSOR - RETAIL",
+      "description": "3.60GHz Clock Speed, 4.9GHz Single Core Max Turbo, 12mb Cache, 95W TDP, Dual Channel DDR4 Controller",
+      "price": 329.99,
+      "category": 7,
+      "rating": 4.3,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP65LIN_193700_750x750.jpg",
+      "image": "cpu-9.jpg"
+    }
+  },
+  {
+    "pk": 70,
+    "model": "products.product",
+    "fields": {
+      "sku": "BX8070110600K",
+      "name": "CORE I5-10600K 4.10GHZ (COMET LAKE) SOCKET LGA1200 PROCESSOR - RETAIL",
+      "description": "Hyper-Threading Technology, 6/12 Cores / Threads, 4.10GHz Clock Speed, 4.8GHz Single Core Max Turbo, 12mb Cache, 125W TDP, Dual Channel DDR4 Controlle",
+      "price": 259.99,
+      "category": 7,
+      "rating": 4.2,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CP67YIN_249112_750x750.jpg",
+      "image": "cpu-10.jpg"
+    }
+  },
+  {
+    "pk": 71,
+    "model": "products.product",
+    "fields": {
+      "sku": "90MB12Q0-M0EAY0",
+      "name": "ROG STRIX Z490-F GAMING (SOCKET LGA 1200) DDR4 ATX MOTHERBOARD",
+      "description": "Socket 1200, Support for Intel 10th Generation Comet Lake-S Processors, 4x DDR4 DIMM, 6x SATA, 2x M.2, RGB (Analogue & Digital), Intel 2.5Gb LAN",
+      "price": 234.95,
+      "category": 8,
+      "rating": 4.3,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB6EEAS_247920_750x750.jpg",
+      "image": "motherboard-1.jpg"
+    }
+  },
+  {
+    "pk": 72,
+    "model": "products.product",
+    "fields": {
+      "sku": "90MB12R0-M0EAY0",
+      "name": "ROG MAXIMUS XII HERO (WI-FI) (SOCKET LGA 1200) DDR4 ATX MOTHERBOARD",
+      "description": "Socket 1200 Support for Intel 10th Generation Comet Lake-S Processors, 4x DDR4 DIMM, 6x SATA, 3x M.2, RGB (Analogue & Digital), Realtek Gb LAN, Intel WI-FI 6, Bluetooth v5.1",
+      "price": 399.95,
+      "category": 8,
+      "rating": 4.6,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB6ECAS_247932_750x750.jpg",
+      "image": "motherboard-2.jpg"
+    }
+  },
+  {
+    "pk": 73,
+    "model": "products.product",
+    "fields": {
+      "sku": "90MB1370-M0EAY0",
+      "name": "ROG MAXIMUS XII FORMULA (SOCKET LGA 1200) DDR4 ATX MOTHERBOARD",
+      "description": " Socket 1200, Support for Intel 10th Generation Comet Lake-S Processors, 4x DDR4 DIMM, 6x SATA, 3x M.2, RGB (Analogue & Digital), Intel 2.5Gb LAN, Marvell 10Gb LAN, Intel WI-FI 6, Bluetooth v5.1",
+      "price": 499.99,
+      "category": 8,
+      "rating": 4.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB6EAAS_247930_750x750.jpg",
+      "image": "motherboard-3.jpg"
+    }
+  },
+  {
+    "pk": 74,
+    "model": "products.product",
+    "fields": {
+      "sku": "MB-58K-GI",
+      "name": "Z490 AORUS MASTER (SOCKET LGA 1200) DDR4 ATX MOTHERBOARD",
+      "description": "Socket 1200, Support for Intel 10th Generation Comet Lake-S Processors, 4x DDR4 DIMM, 6x SATA, 3x M.2, RGB (Analogue & Digital), Intel 2.5Gb LAN, AX, WIFI, Bluetooth",
+      "price": 329.99,
+      "category": 8,
+      "rating": 4.2,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB58KGI_248522_750x750.png",
+      "image": "motherboard-4.png"
+    }
+  },
+  {
+    "pk": 75,
+    "model": "products.product",
+    "fields": {
+      "sku": "90-MXBBW0-A0UAYZ",
+      "name": "Z490 AQUA (SOCKET LGA 1200) DDR4 EATX MOTHERBOARD",
+      "description": "Socket 1200, Support for Intel 10th Generation Comet Lake-S Processors, 4x DDR4 DIMM, 8x SATA, 3x M.2, RGB (Analogue & Digital), Dragon 2.5Gb LAN, Aquantia 10GB LAN, WIFI 6, Bluetooth, Watercooled",
+      "price": 998.99,
+      "category": 8,
+      "rating": 4.4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB17EAK_248531_750x750.png",
+      "image": "motherboard-5.png"
+    }
+  },
+  {
+    "pk": 76,
+    "model": "products.product",
+    "fields": {
+      "sku": "7C37-001R",
+      "name": "MPG X570 GAMING EDGE WIFI (AMD AM4) DDR4 X570 CHIPSET ATX MOTHERBOARD",
+      "description": "Socket AM4, X570 Chipset, 3rd Gen AMD Ryzen™, 4xDDR4, PCIe 4.0 Lightning Gen4 x4, 6x SATA 6Gb/s, 2x USB 3.2 Gen1 connectors, Wireless / Bluetooth,Intel® Dual Band Wireless, Supports Dual Mode Bluetooth® 2.",
+      "price": 179.99,
+      "category": 8,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB34GMS_217662_fix_750x750.png",
+      "image": "motherboard-6.png"
+    }
+  },
+  {
+    "pk": 77,
+    "model": "products.product",
+    "fields": {
+      "sku": "X570 Aorus Elite",
+      "name": "X570 AORUS ELITE (AMD AM4) DDR4 X570 CHIPSET ATX MOTHERBOARD",
+      "description": "Socket AM4, X570 Chipset, 3rd Gen AMD Ryzen™, 4 x DDR4,2 x Dual Ultra-Fast NVMe PCIe 4.0, 2 x 1 x PCI Express x16 slot Supporting PCIe 4.0, 6 x SATA 6Gb/s, 2 x USB 3.2 Gen 1",
+      "price": 199.99,
+      "category": 8,
+      "rating": 4.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB57WGI_217167_750x750.png",
+      "image": "motherboard-7.png"
+    }
+  },
+  {
+    "pk": 78,
+    "model": "products.product",
+    "fields": {
+      "sku": "A520M-A PRO",
+      "name": "MSI AMD Ryzen A520M-A PRO AM4 MicroATX Motherboard",
+      "description": "Socket AM4, 3rd Generation RYZEN, DDR4 Support, mATX Form Factor",
+      "price": 55.98,
+      "category": 8,
+      "rating": 4.6,
+      "image_url": "https://img.ebyrcdn.net/981857-1121084-800.jpg",
+      "image": "motherboard-8.jpg"
+    }
+  },
+  {
+    "pk": 79,
+    "model": "products.product",
+    "fields": {
+      "sku": "TUF GAMING A520M-PLUS",
+      "name": "ASUS TUF GAMING A520M-PLUS mATX Motherboard",
+      "description": "Socket AM4, Supports RYZEN 3rd Gen, DDR4 Support, mATX Form Factor",
+      "price": 79.49,
+      "category": 8,
+      "rating": 4.5,
+      "image_url": "https://img.ebyrcdn.net/979827-1055667-800.jpg",
+      "image": "motherboard-9.jpg"
+    }
+  },
+  {
+    "pk": 80,
+    "model": "products.product",
+    "fields": {
+      "sku": "90MB10T0-M0EAY0",
+      "name": "ROG CROSSHAIR VIII HERO WI-FI (AMD AM4) DDR4 X570 CHIPSET ATX MOTHERBOARD",
+      "description": " Socket AM4, X570 Chipset, 3rd Gen AMD Ryzen™, 4x DDR4 Slots supporting upto 128GB of Memory, 2x PCIe 4.0 x16 SafeSlots, 8x SATA 6Gb/s, Intel Wi-Fi 6 AX200, 4 x USB 3.2 Gen 2 Ports",
+      "price": 439.99,
+      "category": 8,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB6DYAS_222325_750x750.png",
+      "image": "motherboard-10.png"
+    }
+  },
+  {
+    "pk": 81,
+    "model": "products.product",
+    "fields": {
+      "sku": "MZ-76Q1T0BW",
+      "name": "1TB 860 QVO SSD 2.5 SATA 6GBPS 64 LAYER 3D V-NAND SOLID STATE DRIVE",
+      "description": "The 860 QVO is the advanced consumer SSD powered by 3D V-NAND technology that maximizes everyday computing experiences with optimized performance and enhanced reliability.",
+      "price": 109.99,
+      "category": 9,
+      "rating": 4.7,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD23USA_203403_750x750.jpg",
+      "image": "storage-1.jpg"
+    }
+  },
+  {
+    "pk": 82,
+    "model": "products.product",
+    "fields": {
+      "sku": "WDS100T2B0",
+      "name": "BLUE 3D NAND 1TB 2.5 SATA 6GBPS SOLID STATE DRIVE",
+      "description": "1TB SSD  WDS100T2B0A - WD Blue PC SSD 2.5”/7mm cased, 3D NAND, SATA III - 6Gb/s, Read 560MB/s, Write 530MB/s, 95k/84k IOPS, 5 Year Warranty",
+      "price": 94.99,
+      "category": 9,
+      "rating": 4.9,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD54JWD_169871_750x750.jpg",
+      "image": "storage-2.jpg"
+    }
+  },
+  {
+    "pk": 83,
+    "model": "products.product",
+    "fields": {
+      "sku": "MZ-76E1T0B/EU",
+      "name": "1TB 860 EVO SSD 2.5 SATA 6GBPS 64 LAYER 3D V-NAND SOLID STATE DRIVE",
+      "description": "The 860 EVO is the advanced consumer SSD powered by 3D V-NAND technology that maximizes everyday computing experiences with optimized performance and enhanced reliability.",
+      "price": 119.99,
+      "category": 9,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD234SA_180072_750x750.jpg",
+      "image": "storage-3.jpg"
+    }
+  },
+  {
+    "pk": 84,
+    "model": "products.product",
+    "fields": {
+      "sku": "SA400S37/240G",
+      "name": "A400 240GB SATA 6GB/S 2.5 SOLID STATE HARD DRIVE",
+      "description": "Kingston’s A400 solid-state drive dramatically improves the responsiveness of your existing system with incredible boot, loading and transfer times compared to mechanical hard drives.",
+      "price": 32.99,
+      "category": 9,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD106KS_165421_750x750.png",
+      "image": "storage-4.png"
+    }
+  },
+  {
+    "pk": 85,
+    "model": "products.product",
+    "fields": {
+      "sku": "T253TG512G3C301",
+      "name": "TEAMGROUP 512GB VULCAN G SSD 2.5 SATA 6GBPS 3D NAND SOLID STATE DRIVE",
+      "description": "512GB TeamGroup Vulcan, 2.5 SSD, SATA III - 6Gb/s, 3D NAND technology, Read 550MB/s, Write 500MB/s, 90K/80K IOPS",
+      "price": 46.99,
+      "category": 9,
+      "rating": 4.2,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD00HTG_259112_750x750.jpg",
+      "image": "storage-5.jpg"
+    }
+  },
+  {
+    "pk": 86,
+    "model": "products.product",
+    "fields": {
+      "sku": "ST2000DM008",
+      "name": "2TB BARRACUDA 7200RPM 256MB CACHE INTERNAL HARD DRIVE",
+      "description": "2TB Hard Drive, ST2000DM008, Part of the Compute Guardian Range, 3.5 inch, SATA 6Gb/s Interface, 7200RPM Spin Speed, 256MB Cache",
+      "price": 54.95,
+      "category": 9,
+      "rating": 4.1,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD3A5SE_214746_750x750.jpg",
+      "image": "storage-6.jpg"
+    }
+  },
+  {
+    "pk": 87,
+    "model": "products.product",
+    "fields": {
+      "sku": "ST1000DM010",
+      "name": "1TB BARRACUDA 7200RPM 64MB CACHE INTERNAL HARD DRIVE",
+      "description": "1TB Hard Drive, ST1000DM010, Part of the Compute Guardian Range, 3.5 inch, SATA 6Gb/s Interface, 7200RPM Spin Speed, 64MB Cache",
+      "price": 36.95,
+      "category": 9,
+      "rating": 4.8,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD376SE_214743_750x750.jpg",
+      "image": "storage-7.jpg"
+    }
+  },
+  {
+    "pk": 88,
+    "model": "products.product",
+    "fields": {
+      "sku": "ST2000VX008",
+      "name": "2TB SKYHAWK SURVEILLANCE INTERNAL CCTV HARD DRIVE",
+      "description": "2TB Hard Drive, ST2000VX008, Part of the SkyHawk Guardian Range, Surveillance Drive, 3.5 inch, SATA 6Gb/s,Interface, 64MB Cache",
+      "price": 64.99,
+      "category": 9,
+      "rating": 4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD36VSE_214798_750x750.jpg",
+      "image": "storage-8.jpg"
+    }
+  },
+  {
+    "pk": 89,
+    "model": "products.product",
+    "fields": {
+      "sku": "ST4000DM004",
+      "name": "4TB BARRACUDA 5400RPM 256MB CACHE INTERNAL HARD DRIVE",
+      "description": "4TB Hard Drive, ST4000DM004, Part of the Compute Guardian Range, 3.5 inch, SATA 6Gb/s Interface, 5400RPM Spin Speed, 256MB Cache",
+      "price": 52.99,
+      "category": 9,
+      "rating": 5,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD37TSE_214752_750x750.jpg",
+      "image": "storage-9.jpg"
+    }
+  },
+  {
+    "pk": 90,
+    "model": "products.product",
+    "fields": {
+      "sku": "ST4000VN008",
+      "name": "4TB IRONWOLF NAS 5900RPM 64MB CACHE INTERNAL HARD DRIVE",
+      "description": "TB Hard Drive, ST4000VN008, Part of the IronWolf Guardian Range, NAS Drive, 3.5 inch, SATA 6Gb/s Interface, 5900RPM Spin Speed, 64MB Cache",
+      "price": 104.99,
+      "category": 9,
+      "rating": 4.4,
+      "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD36SSE_214871_750x750.jpg",
+      "image": "storage-10.jpg"
+    }
+  }
+]

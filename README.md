@@ -28,12 +28,12 @@ their account and to easily satisfy all CRUD (Create, Read, Update & Delete) fun
 | Customer | I want to be able to browse by categories | To avoid seeing things i don't need | [ ] |
 | Customer | To be able to create an account | So i don't have to keep filling in my details | [ ] |
 | Customer | See past orders | Making it easier for me to do repeat purchases | [ ] |
-| Customer | Easily find important/Social Links | E.g. terms & conditions | [ ] |
+| Customer | Easily find important/Social Links | E.g. terms & conditions | [x] |
 |  |  |  |  |
 | Owner | Ability to add products through the store | So i can easily manage my store | [ ] |
 | Owner | Ability to easily edit/delete products | Providing me a simple way to run my business | [ ] |
 | Owner | Auto send Order confirmations to Customers | To provide them with invoices etc | [ ] |
-| Owner | Provide important & social links | To promote our social accounts and LinkedIn | [ ] |
+| Owner | Provide important & social links | To promote our social accounts and LinkedIn | [x] |
 | Owner | Take card payments on website | Using an app like Stripe | [ ] |
 
 
