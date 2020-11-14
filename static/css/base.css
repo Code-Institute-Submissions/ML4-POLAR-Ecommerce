@@ -68,6 +68,20 @@ color: inherit;
     font-size: 35px;
 }
 
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: #545454;
+	z-index: -1;
+}
+
+footer {
+    margin-top: 50px;
+}
+
 /* -------------------------------- Media Queries */
 
 /*xl screens */

@@ -10,7 +10,7 @@
       "category": 1,
       "rating": 5,
       "image_url": "https://www.scan.co.uk/images/products/2961995-a.jpg",
-      "image": "case-1.png"
+      "image": "case-1.jpg"
     }
   },
   {
@@ -24,7 +24,7 @@
       "category": 1,
       "rating": 4.5,
       "image_url": "https://s3-eu-west-1.amazonaws.com/cdn.coolermaster.com/assets/1002/mb-td500-crystal_section5-1-imageleftorright.png",
-      "image": "case-2.png"
+      "image": "case-2.jpg"
     }
   },
   {
@@ -38,7 +38,7 @@
       "category": 1,
       "rating": 4.9,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA05MAS_262411_750x750.jpg",
-      "image": "case-3.png"
+      "image": "case-3.jpg"
     }
   },
   {
@@ -52,7 +52,7 @@
       "category": 1,
       "rating": 4.6,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA04JRT_243860_750x750.jpg",
-      "image": "case-4.png"
+      "image": "case-4.jpg"
     }
   },
   {
@@ -66,7 +66,7 @@
       "category": 1,
       "rating": 4.9,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA08GIW_201220_750x750.jpg",
-      "image": "case-5.png"
+      "image": "case-5.jpg"
     }
   },
   {
@@ -80,7 +80,7 @@
       "category": 1,
       "rating": 4.5,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/CA08BIW_181907_750x750.jpg",
-      "image": "case-6.png"
+      "image": "case-6.jpg"
     }
   },
   {
@@ -150,7 +150,7 @@
       "category": 2,
       "rating": 4,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB006EG_262901_750x750.jpg",
-      "image": "mouse-1.png"
+      "image": "mouse-1.jpg"
     }
   },
   {
@@ -206,7 +206,7 @@
       "category": 2,
       "rating": 4.8,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/KB043AS_229746_750x750.jpg",
-      "image": "mouse-5.png"
+      "image": "mouse-5.jpg"
     }
   },
   {
@@ -1029,7 +1029,7 @@
       "category": 8,
       "rating": 4.2,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB58KGI_248522_750x750.png",
-      "image": "motherboard-4.png"
+      "image": "motherboard-4.jpg"
     }
   },
   {
@@ -1043,7 +1043,7 @@
       "category": 8,
       "rating": 4.4,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB17EAK_248531_750x750.png",
-      "image": "motherboard-5.png"
+      "image": "motherboard-5.jpg"
     }
   },
   {
@@ -1057,7 +1057,7 @@
       "category": 8,
       "rating": 5,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB34GMS_217662_fix_750x750.png",
-      "image": "motherboard-6.png"
+      "image": "motherboard-6.jpg"
     }
   },
   {
@@ -1071,7 +1071,7 @@
       "category": 8,
       "rating": 4.7,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB57WGI_217167_750x750.png",
-      "image": "motherboard-7.png"
+      "image": "motherboard-7.jpg"
     }
   },
   {
@@ -1113,7 +1113,7 @@
       "category": 8,
       "rating": 5,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/MB6DYAS_222325_750x750.png",
-      "image": "motherboard-10.png"
+      "image": "motherboard-10.jpg"
     }
   },
   {
@@ -1169,7 +1169,7 @@
       "category": 9,
       "rating": 5,
       "image_url": "https://www.overclockers.co.uk/media/image/thumbnail/HD106KS_165421_750x750.png",
-      "image": "storage-4.png"
+      "image": "storage-4.jpg"
     }
   },
   {
