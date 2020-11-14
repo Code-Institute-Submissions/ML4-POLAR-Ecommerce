@@ -59,6 +59,15 @@ body {
     border: 1px solid black !important;
 }
 
+.linked, .linked:hover, .linked:focus, .linked:active {
+text-decoration: none;
+color: inherit;
+}
+
+.social-link {
+    font-size: 35px;
+}
+
 /* -------------------------------- Media Queries */
 
 /*xl screens */
