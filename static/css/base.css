@@ -51,8 +51,8 @@ body {
     color: #fff !important;
 }
 
-.text-black{
-    color: #000 !important;
+.top-border{
+    border-top: #fff 5px solid;
 }
 
 .border-black {
