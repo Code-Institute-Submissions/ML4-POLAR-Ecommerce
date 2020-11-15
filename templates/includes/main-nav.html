@@ -1,13 +1,13 @@
 <div class="collapse navbar-collapse" id="main-nav">
     <ul class="navbar-nav w-auto mx-auto">
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="case-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="{% url 'products' %}?category=cases" id="case-link">
                 Cases
             </a>
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="monitor-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="{% url 'products' %}?category=monitors" id="monitor-link">
                 Monitors
             </a>
         </li>
@@ -17,22 +17,22 @@
                 Pc Components
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">DDR4 Ram</a>
-                <a href="" class="dropdown-item">Graphics Cards</a>
-                <a href="" class="dropdown-item">CPU's</a>
-                <a href="" class="dropdown-item">Motherboards</a>
-                <a href="" class="dropdown-item">Storage</a>
+                <a href="{% url 'products' %}?category=ddr4_ram" class="dropdown-item">DDR4 Ram</a>
+                <a href="{% url 'products' %}?category=graphic_cards" class="dropdown-item">Graphics Cards</a>
+                <a href="{% url 'products' %}?category=cpus" class="dropdown-item">CPU's</a>
+                <a href="{% url 'products' %}?category=motherboards" class="dropdown-item">Motherboards</a>
+                <a href="{% url 'products' %}?category=storage" class="dropdown-item">Storage</a>
             </div>
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="keyboard-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="{% url 'products' %}?category=keyboards" id="keyboard-link">
                 Keyboards
             </a>
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white" href="#" id="mouse-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white" href="{% url 'products' %}?category=pc_mice" id="mouse-link">
                 Mouses
             </a>
         </li>
