@@ -5,6 +5,11 @@ Polar is a small eccomerce website that sells Computer components, keyboards, ca
 
 This Website will benifit users by providing them with a service to purchase computer parts easily, it will also keep track of their delivery info and past orders.
 
+
+Checkout payment options:
+
+Number - 4242 4242 4242 4242 - Any 3 Digits - Any future date
+
 ## UX
 ### Main Requirements
 The requirements for this Website is to give the user the ability to Purchase items, create accounts and see past orders while also offering the Owner the ability to easily manage the store via
