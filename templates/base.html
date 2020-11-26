@@ -36,6 +36,7 @@
     <title>Polar Ltd {% block extra_title %}{% endblock %}</title>
   </head>
   <body>
+  <div id="page-container">
     <header class="container-fluid fixed-top">
         <div id="topnav" class="row bg-dark pt-lg-2 d-none d-lg-flex">
             <div class="col-lg-4 col-12 my-auto py-1 py-lg-0 text-center text-lg-left">
@@ -116,13 +117,13 @@
 
     {% block page_header %}
     {% endblock %}
-
+    <div id="content-wrap">
     {% block content %}
     {% endblock %}
-
+    </div>
 <!-- Footer below P.S the White line is supposed to be there. -->
 
-<footer class="page-footer font-small blue pt-4 bg-dark text-white top-border">
+<footer id="footer" class="page-footer font-small blue pt-4 bg-dark text-white top-border">
   <div class="container-fluid text-center text-md-left">
     <div class="row">
       <div class="col-md-6 mt-md-0 mt-3">
@@ -173,7 +174,7 @@
     <a href="{% url 'home' %}" class="linked"> Polar Ltd</a>
   </div>
 </footer>
-
+</div>
     {% block postloadjs %}
     {% endblock %}
 

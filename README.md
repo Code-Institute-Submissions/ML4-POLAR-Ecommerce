@@ -8,7 +8,9 @@ This Website will benifit users by providing them with a service to purchase com
 
 Checkout payment options:
 
-Number - 4242 4242 4242 4242 - Any 3 Digits - Any future date
+Authed Number - 4242 4242 4242 4242 - Any 3 Digits - Any future date
+
+Requires Auth Number - 4000 0025 0000 3155 - Any 3 Digits - Any future date
 
 ## UX
 ### Main Requirements
