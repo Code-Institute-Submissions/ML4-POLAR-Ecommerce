@@ -12,6 +12,16 @@ Authed Number - 4242 4242 4242 4242 - Any 3 Digits - Any future date
 
 Requires Auth Number - 4000 0025 0000 3155 - Any 3 Digits - Any future date
 
+Stripe international cards:
+
+Ireland - 4000 0037 2000 0005
+
+USA - 4242 4242 4242 4242
+
+UK Visa - 4000 0082 6000 0000
+
+UK Visa(Debit) - 4000 0582 6000 0005
+
 ## UX
 ### Main Requirements
 The requirements for this Website is to give the user the ability to Purchase items, create accounts and see past orders while also offering the Owner the ability to easily manage the store via
@@ -41,7 +51,7 @@ their account and to easily satisfy all CRUD (Create, Read, Update & Delete) fun
 | Owner | Ability to easily edit/delete products | Providing me a simple way to run my business | [ ] |
 | Owner | Auto send Order confirmations to Customers | To provide them with invoices etc | [ ] |
 | Owner | Provide important & social links | To promote our social accounts and LinkedIn | [x] |
-| Owner | Take card payments on website | Using an app like Stripe | [ ] |
+| Owner | Take card payments on website | Using an app like Stripe | [x] |
 
 
 ## Features
