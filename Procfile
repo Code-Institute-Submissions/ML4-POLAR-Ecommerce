@@ -1,1 +1,1 @@
-web: gunicorn polar.wsgi:application
+web: gunicorn Polar.wsgi:application
