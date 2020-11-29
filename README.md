@@ -16,7 +16,7 @@ Stripe international cards:
 
 Ireland - 4000 0037 2000 0005
 
-USA - 4242 4242 4242 4242
+U.S.A - 4242 4242 4242 4242
 
 UK Visa - 4000 0082 6000 0000
 
