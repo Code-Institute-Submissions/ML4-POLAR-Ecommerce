@@ -8,6 +8,7 @@ from .forms import ProductForm
 
 
 def all_products(request):
+    """ all store products """
 
     products = Product.objects.all()
     query = None
@@ -38,6 +39,7 @@ def all_products(request):
 
 
 def product_detail(request, product_id):
+    """ page for product details """
 
     product = get_object_or_404(Product, pk=product_id)
 
@@ -49,12 +51,12 @@ def product_detail(request, product_id):
 
 
 def add_product(request):
+    """ Add a product to the store """
     if request.method == 'POST':
         form = ProductForm(request.POST, request.FILES)
         if form.is_valid():
-            form.save()
-            messages.success(request, 'Product Added')
-            return redirect(reverse('add_product'))
+            product = form.save()
+            return redirect(reverse('product_detail', args=[product.id]))
     else:
         form = ProductForm()
 
@@ -67,6 +69,7 @@ def add_product(request):
 
 
 def edit_product(request, product_id):
+    """ edit """
     product = get_object_or_404(Product, pk=product_id)
     if request.method == 'POST':
         form = ProductForm(request.POST, request.FILES, instance=product)
@@ -83,3 +86,12 @@ def edit_product(request, product_id):
     }
 
     return render(request, template, context)
+
+
+def delete_product(request, product_id):
+    """ Delete """
+    product = get_object_or_404(Product, pk=product_id)
+    product.delete()
+    messages.success(request, 'Product deleted!')
+    return redirect(reverse('products'))
+
