@@ -26,7 +26,7 @@ SECRET_KEY = '^2)=e40ab(d1ynj0vatk82vl7rw*wi4e=$ldnyvv5dok+ogd@g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['polar-ms4-hylia358', 'localhost']
+ALLOWED_HOSTS = ['polar-ms4-hylia358.herokuapp.com', 'localhost']
 
 
 # Application definition
