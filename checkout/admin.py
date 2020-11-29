@@ -3,6 +3,7 @@ from .models import Order, OrderLineItem
 
 # Register your models here.
 
+
 class OrderLineItemAdminInline(admin.TabularInline):
     model = OrderLineItem
     readonly_fields = ('lineitem_total',)
@@ -19,7 +20,7 @@ class OrderAdmin(admin.ModelAdmin):
               'email', 'phone_number', 'country',
               'postcode', 'town_or_city', 'street_address1',
               'street_address2', 'county', 'delivery_cost',
-              'order_total', 'grand_total', 'originale_cart', 'stripe_pid')
+              'order_total', 'grand_total', 'original_cart', 'stripe_pid')
 
     list_display = ('order_number', 'date', 'full_name',
                     'order_total', 'delivery_cost',
