@@ -6,21 +6,21 @@ Polar is a small eccomerce website that sells Computer components, keyboards, ca
 This Website will benifit users by providing them with a service to purchase computer parts easily, it will also keep track of their delivery info and past orders.
 
 
-Checkout payment options:
+#### Stripe Cards:
 
-Authed Number - 4242 4242 4242 4242 - Any 3 Digits - Any future date
+- Authed Number - 4242 4242 4242 4242 - Any 3 Digits - Any future date
 
-Requires Auth Number - 4000 0025 0000 3155 - Any 3 Digits - Any future date
+- Requires Auth Number - 4000 0025 0000 3155 - Any 3 Digits - Any future date
 
-Stripe international cards:
+##### Stripe international cards:
 
-Ireland - 4000 0037 2000 0005
+- Ireland - 4000 0037 2000 0005
 
-U.S.A - 4242 4242 4242 4242
+- U.S.A - 4242 4242 4242 4242
 
-UK Visa - 4000 0082 6000 0000
+- UK Visa - 4000 0082 6000 0000
 
-UK Visa(Debit) - 4000 0582 6000 0005
+- UK Visa(Debit) - 4000 0582 6000 0005
 
 ## UX
 ### Main Requirements
@@ -46,7 +46,7 @@ their account and to easily satisfy all CRUD (Create, Read, Update & Delete) fun
 | Customer | To be able to create an account | So i don't have to keep filling in my details | [x] |
 | Customer | See past orders | Making it easier for me to do repeat purchases | [x] |
 | Customer | Easily find important/Social Links | E.g. terms & conditions | [x] |
-|  |  |  |  |
+|||||
 | Owner | Ability to add products through the store | So i can easily manage my store | [x] |
 | Owner | Ability to easily edit/delete products | Providing me a simple way to run my business | [x] |
 | Owner | Auto send Order confirmations to Customers | To provide them with invoices etc | [x] |
@@ -55,49 +55,80 @@ their account and to easily satisfy all CRUD (Create, Read, Update & Delete) fun
 
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
 ### Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Save checkout form - once the user add the items to their cart and clicks "Secure Checkout" they can fill in their Delivery info and if the save info box is selected then it'll save the info
+for future use.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Accounts - This allows the user to see past orders and even save their info.
+
+emails - Sending REAL emails about the store e.g. confirmation emails
+
+management - Allows the owner to easily ADD, DELETE & EDIT products
 
 ### Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-## JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+In the future once the amount of products starts getting higher i would like to include:
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+- Pagination
+- Back to top button
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+## Technologies UsedIn
+Used in the project is:
+- HTML
+- CSS
+- Javascript
+- JQuery
+- Django
+- Bootstrap
+- Gitpod
+- Heroku
+- AWS
+- boto3
+- botocore
+- dj-database-url
+- django-allauth
+- django-countries
+- django-crispy-forms
+- django-storages
+- gunicorn
+- Pillow
+- psycopg2-binary
+- stripe
 
 ## Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+Proces for deployment:
+1) create a Heroku account
+2) (on homescreen) Click "NEW" then click "CREATE NE APP" to start your project
+3) Enter app name and region
+4) Select Postgres as a free add on
+5) Go to settings tab, click reaveal on CONFIG VARS and input the following values
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+|Keys|Value|
+|----|-----|
+|DATABASE_URL|Postgres Datbase URL|
+|SECRET_KEY|Django Secret Key|
+|STRIPE_PUBLIC_KEY|From Stripe|
+|STRIPE_SECRET_KEY|from stripe|
+|STRIPE_WH_SECRET|From Stripe|
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+6) create requirements.txt in your gitpod project
+7) Create your Procfile with the following:  web: gunicorn Polar.wsgi:application
+8) Set up database with Postgres
+9) Create a superuser to work as an admin on the web
+10) commit
+11) log into Heroku
+12) link your remote repo to Heroku using (heroku git:remote -a put name here)
+13)push to heroku: GIT PUSH HEROKU MASTER
+14) set up auto push to heroku so you can just use GIT PUSH to go to both GITHUB & HEROKU
 
 ## Credits
 ### Content
 
-The Product content for this project was all acquired from Overclockers.co.uk
+- All product content was collected from both Overclockers.com and ebuyer.com
 
 ### Media
 
-The Media used in this project was acquired from Overclockers.co.uk
-
-Logo - Created by me.
+- Most media was collected from both Overclockers.com and ebuyer.com
 
 ### Acknowledgements
 Inspiration for this website came from a few sources:
@@ -106,3 +137,5 @@ Inspiration for this website came from a few sources:
 and how to make a few things work the way i wanted them to.
 
 - Overclockers - Majority of the content was acquired from Overclockers such as images/title/content and prices, The reviews were random.
+
+- Ebuyer - Bits of the content was acquired from Ebuyer such as images/title/content and prices, The reviews were random.
