@@ -5,6 +5,10 @@ Polar is a small eccomerce website that sells Computer components, keyboards, ca
 
 This Website will benifit users by providing them with a service to purchase computer parts easily, it will also keep track of their delivery info and past orders.
 
+#### Test Admin:
+User - Test
+Password - Polar2020
+
 
 #### Stripe Cards:
 
@@ -113,6 +117,11 @@ Proces for deployment:
 |STRIPE_PUBLIC_KEY|From Stripe|
 |STRIPE_SECRET_KEY|from stripe|
 |STRIPE_WH_SECRET|From Stripe|
+|AWS_ACCESS_KEY_ID|AWS ACCESS KEY|
+|AWS_SECRET_ACCESS_KEY|AWS|
+|USE_AWS|True|
+|EMAIL_HOST_PASS|email app password|
+|EMAIL_HOST_USER|Email address|
 
 6) create requirements.txt in your gitpod project
 7) Create your Procfile with the following:  web: gunicorn Polar.wsgi:application
