@@ -96,6 +96,9 @@ Used in the project is:
 - stripe
 
 ## Deployment
+
+- LINK TO HEROKU APP - https://polar-ms4-hylia358.herokuapp.com/
+
 Proces for deployment:
 1) create a Heroku account
 2) (on homescreen) Click "NEW" then click "CREATE NE APP" to start your project
