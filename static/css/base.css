@@ -231,6 +231,20 @@ input[name='q']::placeholder {
     }
 }
 
-footer {
-    margin-top: 50px;
+@media (min-width: 600px) {
+    #page-container {
+    position: relative;
+    min-height: 100vh;
+    }
+
+    #content-wrap {
+    padding-bottom: 14rem;    /* Footer height */
+    }
+
+    #footer {
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    }
 }
