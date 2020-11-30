@@ -247,4 +247,8 @@ input[name='q']::placeholder {
     bottom: 0;
     width: 100%;
     }
+
+    .top-border{
+    border-top: #fff 5px solid;
+}
 }
